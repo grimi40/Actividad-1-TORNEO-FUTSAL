@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "61d74d8233c9f0547630c563"
+  },
+  "Nombre": "Neas",
+  "Ciudad": "Medellin",
+  "Año": 2023
+},
+{
+  "_id": {
+    "$oid": "61d74da233c9f0547630c564"
+  },
+  "Nombre": "Rolos",
+  "Ciudad": "Bogotá ",
+  "Año": 2023
+}]
